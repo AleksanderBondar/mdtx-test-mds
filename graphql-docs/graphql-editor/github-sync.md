@@ -3,7 +3,7 @@ description: Synchronize GraphQL Editor content with your GitHub repository
 ---
 
 # Github Sync
-
+tete
 To connect GraphQL Editor with GitHub you need to authorize the GraphQL Editor app so it can make PRs on your behalf. You can do this:
 
 * During the project creation process

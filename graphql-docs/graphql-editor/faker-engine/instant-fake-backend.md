@@ -1,7 +1,7 @@
 ---
 description: Mock backend automatically generated for your GraphQL project
 ---
-
+etetet
 # Instant Mock backend
 
 To use and test a fake backend navigate to GraphQL Cloud via the top menu or (CTRL + K). It should automatically deploy your fake backend or warn you if something is incorrect with your schema.&#x20;
