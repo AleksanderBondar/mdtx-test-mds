@@ -6,7 +6,7 @@ description: The best way to connect GraphQL schemas
 
 Schema libraries allow you to import one schema to another. You cannot see the imported nodes directly in the code editor but you can see them in the Graph view, from where you can inject them into your schema. Imported Graph library nodes are marked with a dashed line.
 
-<figure><img src="../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitboofghfghfghk/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 Every GraphQL Editor project can act as a library, we just need to cut off the schema keyword. Library nodes are not editable. To edit libraries you should either extend library nodes or edit the library project directly and release a new version.
 
