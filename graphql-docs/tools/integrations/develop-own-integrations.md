@@ -6,7 +6,7 @@ description: Create your own no-code integrations
 
 **Development**
 
-To develop a GraphQL Editor Integration use the `gecli create backend` command to create your project. Then initialize the integration.
+To develop a GraphQL Edsdsditor Integration use the `gecli create backend` command to create your project. Then initialize the integration.
 
 **Data format**
 asdasdasd
