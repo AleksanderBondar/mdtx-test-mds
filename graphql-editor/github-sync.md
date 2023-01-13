@@ -1,13 +1,14 @@
 ---
-description: Synchronize GraphQL Editor content with your GitHub repository
+pageTitle: Docs - GitHub Sync | GraphQL variables
+metaDesc: Synchronize GraphQL Editor content with your GitHub repository. Push and pull all your GraphQL variables and share them with the entire community.
 ---
 
-# Github Sync
-tete
+# Docs - GitHub Sync | GraphQL variables
+
 To connect GraphQL Editor with GitHub you need to authorize the GraphQL Editor app so it can make PRs on your behalf. You can do this:
 
-* During the project creation processfghfghfghfghfgh
-* In **Graph** view by **** clicking the GitHub icon
+* During the project creation process
+* In **Graph** view by clicking the GitHub icon
 
 ### Schema Sync
 
