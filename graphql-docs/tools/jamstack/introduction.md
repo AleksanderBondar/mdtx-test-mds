@@ -3,7 +3,7 @@ description: A visual way to play with data from a GraphQL backend.
 ---
 
 # JS Playground
-
+aa
 You can create fully functional static GraphQL data-driven websites using our JAMStack Tool. The websites are entirely based on your schema and customizable using CSS and JS consoles. You also have an option to preview, export and save your work in a few convenient ways.
 
 <figure><img src="../../.gitbook/assets/jsplayground production.gif" alt=""><figcaption><p>JS Playground in action</p></figcaption></figure>
