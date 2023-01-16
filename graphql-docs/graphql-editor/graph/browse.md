@@ -5,7 +5,7 @@ description: How to browse complex GraphQL Schemas
 # ERD like Relation View
 
 Navigating a big GraphQL Schema with only code is nearly impossible. Instead use our diagram view to see how to browse it in an easy and transparent way.
-
+oo
 <figure><img src="../../.gitbook/assets/relation_view(18).png" alt=""><figcaption><p>Example ERD relation view exported to .png</p></figcaption></figure>
 
 ### Navigation
