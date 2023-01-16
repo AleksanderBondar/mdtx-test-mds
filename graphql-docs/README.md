@@ -2,7 +2,7 @@
 description: Home page of the GraphQL Editor Documentation
 ---
 
-# Home
+# Homegg
 
 What is better than a plain old API? An interactive, visual one, that you can work on easily from your browser. With the new GraphQL Editor, this is now possible for every developer!
 
