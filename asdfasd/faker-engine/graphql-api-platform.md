@@ -2,7 +2,7 @@
 pageTitle: GraphQL API Platform | GraphiQL Playground
 metaDesc: Check out our GraphQL API platform. It's basically a richer GraphiQL Playground that additionally displays forms for inputs and data in tables.
 ---
-
+sdsd
 # GraphQL API Platform | GraphiQL Playground
 
 Our API platform is basically a richer GraphiQL. The concept is the same, but it displays forms for inputs and data in tables. Every query can be saved to the GraphQL Editor Cloud, in the same way the project schema is saved.
