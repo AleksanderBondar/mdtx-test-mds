@@ -3,9 +3,9 @@ description: Home page of the GraphQL Editor Documentation
 ---
 
 # Homegg
-
+ll
 What is better than a plain old API? An interactive, visual one, that you can work on easily from your browser. With the new GraphQL Editor, this is now possible for every developer!
-
+![](/assets/autocomplete%20vscode%20(1).gif)
 ![Relation view in the Editor](<.gitbook/assets/image (12) (1) (1).png>)
 
 ### Keep your schema in the cloud.
