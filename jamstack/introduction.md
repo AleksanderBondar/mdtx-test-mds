@@ -2,7 +2,7 @@
 pageTitle: JS Playground | GraphQL variables and queries
 metaDesc: A JAMStack tool which lets you create fully functional static & data-driven websites. Visualize all the GraphQL variables and queries in your schema.
 ---
-test
+![MOBILE_6b4be3b6-0607-457b-91ad-ca3085f6ac0a.webp](/mdtx-cms-folder/images/MOBILE_6b4be3b6-0607-457b-91ad-ca3085f6ac0a.webp)
 # JS Playground | GraphQL variables and queries
 ds
 You can create fully functional static GraphQL data-driven websites using our JAMStack Tool. The websites are entirely based on your schema and customizable using CSS and JS consoles. You also have an option to preview, export and save your work in a few convenient ways.
