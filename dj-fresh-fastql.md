@@ -1,17 +1,19 @@
 ---
-createdAt: 2023-01-23T16:00:00.000+00:00
+createdAt: 2023-01-23T16:00:00.000Z
 title: DJ Fresh presents - FastQL
-short_description: Introducing a blazing-fast and incredibly simple to use API for getting AI-generated images. 
+short_description: >-
+  Introducing a blazing-fast and incredibly simple to use API for getting
+  AI-generated images.
 author: src/data/forestry/content/authors/michal.md
 category: ''
 first_category: GraphQL
 second_category: Tech
 third_category: ''
-feature_image: "/uploads/DJ_blogpost.png" 
+feature_image: /uploads/DJ_blogpost.png
 ---
 
 If you’re into Drum and Bass or UK Dance music there's a pretty good chance that you’ve heard of Dj Fresh or that you’ve heard some of his hits on youtube (where he has almost 240 million views and almost 400k subscribers) on the radio or in the clubs. If you're wondering why I'm writing about that here (as this isn't really a blog about music) you should check out what the author of the hit single Gold Dust has been working on lately.
-
+test
 2022 was a pretty big year for artificial intelligence with AI-generated images from MidJourney or Dall-E mini being all the craze for quite a while. With their simple text-to-image interface, it was easy enough to play around with for basically everyone. While it was admittedly fun to play around with generating images of the pope riding a dinosaur or whatever, the bigger implications are for using them professionally. For a simple use case as a copywriter I often need images either for blog posts or website content and usually, I simply have to wait for a graphic designer to create them. Well, I had to before to be exact as that’s where things like FastQL come in.
 
 ## FastQL
@@ -62,5 +64,6 @@ After approximately five minutes the tool is ready to provide you personalized i
 As you can see FastQL is a great tool to make it easy to create APIs around AI models. It can be connected with some application or cms, letting you use them wherever you need, and in a fast and efficient way (without requiring any knowledge of programming). Going back to the author, it's safe to say DJ Fresh is still putting out hits in 2023, although of a different variety, so give him a follow on GitHub as well as on Youtube.
 
 Check out the repo on [GitHub](https://github.com/happy-machine/FastQL) or read about it in Dan's [piece on medium](https://medium.com/@thisisdjfresh/introducing-fastql-the-python-package-for-rapid-prototyping-and-sharing-of-machine-learning-models-54863236dbaf). 
+
 
 
